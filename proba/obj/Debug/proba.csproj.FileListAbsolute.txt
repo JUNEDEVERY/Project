@@ -1,0 +1,284 @@
+C:\gryppa\proba\proba\bin\Debug\Database1.mdf
+C:\gryppa\proba\proba\bin\Debug\Database1_log.ldf
+C:\gryppa\proba\proba\bin\Debug\proba.exe.config
+C:\gryppa\proba\proba\bin\Debug\proba.exe
+C:\gryppa\proba\proba\bin\Debug\proba.pdb
+C:\gryppa\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\gryppa\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\gryppa\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\gryppa\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\gryppa\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\gryppa\proba\proba\obj\Debug\proba.exe
+C:\gryppa\proba\proba\obj\Debug\proba.pdb
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\bin\Debug\Database1.mdf
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\bin\Debug\Database1_log.ldf
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\bin\Debug\proba.exe.config
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\bin\Debug\proba.exe
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\bin\Debug\proba.pdb
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.Autorization.resources
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.exe
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.pdb
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\stron\OneDrive\Рабочий стол\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\ivat1\Desktop\proba\proba\bin\Debug\Database1.mdf
+C:\Users\ivat1\Desktop\proba\proba\bin\Debug\Database1_log.ldf
+C:\Users\ivat1\Desktop\proba\proba\bin\Debug\proba.exe.config
+C:\Users\ivat1\Desktop\proba\proba\bin\Debug\proba.exe
+C:\Users\ivat1\Desktop\proba\proba\bin\Debug\proba.pdb
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.Autorization.resources
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.exe
+C:\Users\ivat1\Desktop\proba\proba\obj\Debug\proba.pdb
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\bin\Debug\Database1.mdf
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\bin\Debug\Database1_log.ldf
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\bin\Debug\proba.exe
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.exe
+\\main\RDP\31П\МатвеевИС\Desktop\proba\proba\obj\Debug\proba.pdb
+C:\Users\Егор\Desktop\proba\proba\bin\Debug\proba.exe.config
+C:\Users\Егор\Desktop\proba\proba\bin\Debug\proba.exe
+C:\Users\Егор\Desktop\proba\proba\bin\Debug\proba.pdb
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.Autorization.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.exe
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\bin\Debug\proba.exe
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.exe
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.pdb
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.Nomenklatura.resources
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.Nomenklatura.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\proba\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\bin\Debug\proba.exe
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.Nomenklatura.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.exe
+\\main\RDP\31П\ГромовАН\Desktop\proba\proba\obj\Debug\proba.pdb
+C:\Users\Егор\Desktop\proba\proba\obj\Debug\proba.Nomenklatura_update.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\bin\Debug\proba.exe.config
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\bin\Debug\proba.exe
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\bin\Debug\proba.pdb
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Autorization.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.exe
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.pdb
+C:\Users\Егор\Desktop\egor1\proba\bin\Debug\proba.exe.config
+C:\Users\Егор\Desktop\egor1\proba\bin\Debug\proba.exe
+C:\Users\Егор\Desktop\egor1\proba\bin\Debug\proba.pdb
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Autorization.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.exe
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.pdb
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Sales.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.BuyTools.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.BuyTools.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Postavshiki.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Sales.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+C:\Users\stron\OneDrive\Рабочий стол\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Postavshiki.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Country.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.CountryAdd.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.CountryUpd.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Form2.resources
+C:\Users\Егор\Desktop\egor1\proba\obj\Debug\proba.Prodaja_update.resources
+C:\Users\ivat1\Desktop\egor1\proba\bin\Debug\proba.exe.config
+C:\Users\ivat1\Desktop\egor1\proba\bin\Debug\proba.exe
+C:\Users\ivat1\Desktop\egor1\proba\bin\Debug\proba.pdb
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Autorization.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.BuyTools.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Country.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.CountryAdd.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.CountryUpd.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.MainMenu.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Postavshiki.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Form2.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Prodaja_update.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Sales.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.exe
+C:\Users\ivat1\Desktop\egor1\proba\obj\Debug\proba.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\bin\Debug\proba.exe
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.BuyTools.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Country.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.CountryAdd.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.CountryUpd.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Postavshiki.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Form2.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Prodaja_update.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Sales.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.exe
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.pdb
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\ПигалевЕД\Desktop\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\bin\Debug\proba.exe
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.BuyTools.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Country.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.CountryAdd.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.CountryUpd.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Form2.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Prodaja_update.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Sales.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.exe
+\\main\RDP\31П\ГромовАН\Downloads\egor1 (2)\egor1\proba\obj\Debug\proba.pdb
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\bin\Debug\proba.exe.config
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\bin\Debug\proba.exe
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\bin\Debug\proba.pdb
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Autorization.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.BuyTools.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Country.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.CountryAdd.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.CountryUpd.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.MainMenu.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.PosleVHODA.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.PosleRegistracii.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura_add.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Nomenklatura_update.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki_add.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Postavshiki_update.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Form2.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Prodaja_update.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Sales.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenkatury.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenklaturyUpdate.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.VidNomenklatury_add.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.Properties.Resources.resources
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.GenerateResource.cache
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.exe
+\\main\RDP\31П\МатвеевИС\Desktop\egor1 (2)\egor1\proba\obj\Debug\proba.pdb
